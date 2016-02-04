@@ -1,0 +1,33 @@
+{
+  "name": "practice-unittest",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "bellcliff <bell.cliff@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "~0.14.3",
+    "angular-mocks": "~1.4.9",
+    "angular-resource": "~1.4.8",
+    "angular-ui-router": "~0.2.15",
+    "bootstrap": "~3.3.6",
+    "highcharts": "~4.1.9",
+    "jasmine-core": "jasmine#~2.4.1",
+    "requirejs": "~2.1.22",
+    "angular": "~1.4.9"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.9"
+  }
+}
